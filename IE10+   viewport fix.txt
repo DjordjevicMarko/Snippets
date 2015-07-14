@@ -1,2 +1,5 @@
 @-ms-viewport { width:device-width; }
 @viewport { width:device-width; }
+
+
+this must be imported in a css
